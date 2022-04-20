@@ -125,10 +125,3 @@ def main(field[ac][fe] w,field[ac][fe] w_sign,field[ac] b,field[ac] b_sign,priva
     endfor
 
     return res == u32_to_field(ac+fe*ac)
-
-
-
-
-
-
-
